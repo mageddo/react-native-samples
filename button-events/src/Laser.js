@@ -1,6 +1,6 @@
 import React from "react";
 
-class Laser extends React.Component {
+export default class Laser extends React.Component {
 	
 	constructor(){
 		super()
@@ -25,4 +25,3 @@ class Laser extends React.Component {
 		);
 	}
 }
-export default Laser;
